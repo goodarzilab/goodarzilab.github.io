@@ -327,7 +327,7 @@ body > section {
 	background: #f2f2f2;
 	padding-bottom: 40px;
 }
-.inner-page {
+#inner-page {
 	background: #f8f8f8 url(../images/innerpage_bg.png) repeat-x;
 	padding-bottom: 0;
 }
